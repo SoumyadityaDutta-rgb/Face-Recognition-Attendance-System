@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+deepface_env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Project Specific
+models/encodings.pkl
+models/*.pkl
+Attendance.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal Images (keep folder structure but ignore actual images)
+images/*.jpg
+images/*.jpeg
+images/*.png
+!images/sample_*.jpg
+!images/sample_*.jpeg
+!images/sample_*.png
+
+# Logs
+*.log
