@@ -56,8 +56,8 @@ A real-time face recognition-based attendance system built with Python, OpenCV, 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/attendance-system.git
-cd attendance-system
+git clone https://github.com/SoumyadityaDutta-rgb/Face-Recognition-Attendance-System.git
+cd Face-Recognition-Attendance-System
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
